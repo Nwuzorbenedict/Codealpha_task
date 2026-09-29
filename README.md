@@ -27,11 +27,10 @@ DHELIVER is a delivery application designed to connect users with riders for pac
 
 [View Full DHELIVER Project on Figma](https://www.figma.com/design/Cemjj9XI02MRhndwae4Wda/DHELIVER-FULL-DESIGN?node-id=0-1&t=Oe2WGCAPJ8vZpHhC-1)
 
-## Project Documentation
+## Project Overview
 
-This repository contains selected screenshots of the wireframes and high-fidelity UI designs created for the project.
+This repository contains the design work for the DHELIVER delivery application, including the wireframes and high-fidelity user interface designs created in Figma.
 
-### Wireframes
 
 Selected wireframe screens from the DHELIVER project.
 
